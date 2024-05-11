@@ -1,6 +1,7 @@
 #gameContainer{
 
 	height:400px;
+	background-color:black;
 	width:400px;
 	display:grid;
 	  grid-template-columns: repeat(40, 1fr);
